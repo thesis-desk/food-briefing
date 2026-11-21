@@ -1,9 +1,64 @@
 {
  "schema": 1,
- "generated_kst": "2026-11-21T10:55:17+09:00",
- "reports": [],
+ "generated_kst": "2026-11-21T11:27:15+09:00",
+ "reports": [
+  {
+   "slug": "cj-freshway-3q26-earnings",
+   "type": "earnings",
+   "title": "CJ프레시웨이 3Q26 실적발표 : 외형 6.7% 성장, 매출이익률 1.2%p 하락",
+   "companies": [
+    {
+     "name": "CJ프레시웨이",
+     "ticker": "051500.KQ"
+    }
+   ],
+   "event": "3Q26 실적 발표",
+   "event_date": "2026-11-05",
+   "published_kst": "2026-11-05T21:00:00+09:00",
+   "revised_kst": "2026-11-21T11:24:24+09:00",
+   "revision": 1,
+   "summary": "매출은 식자재유통과 단체급식이 끌어 전년 동기보다 6.7% 늘었지만 영업이익은 29.2% 줄었다. 매출이익률이 18.7%에서 17.5%로 내려간 것이 원인이고, 이익 감소는 식자재유통에 몰렸다. 플랫폼 성장 투자와 폭염에 따른 원가 부담이 겹친 분기로 보이며, 이익률이 언제 회복되는지는 자료에서 답해지지 않았다.",
+   "path": "reports/cj-freshway-3q26-earnings.json"
+  },
+  {
+   "slug": "sysco-1q27-earnings",
+   "type": "earnings",
+   "title": "Sysco 1Q27 실적발표 : 물가 꺾여 매출 눈높이는 하단, 로컬 물량·자체 브랜드는 가속",
+   "companies": [
+    {
+     "name": "Sysco",
+     "ticker": "SYY"
+    }
+   ],
+   "event": "1Q27 실적 발표",
+   "event_date": "2026-11-03",
+   "published_kst": "2026-11-03T21:00:00+09:00",
+   "revised_kst": "2026-11-21T11:27:15+09:00",
+   "revision": 1,
+   "summary": "미국 식품 디플레이션으로 매출 성장은 2.8%에 그쳤다. 그래도 로컬 물량 2.7%와 자체 브랜드 비중 반등으로 매출총이익률을 18bp 넓혀 조정 EPS는 회사 계획대로 나왔다. 연간 이익 가이던스(조정 EPS 9~11% 성장)는 하반기의 AI 비용 절감과 물가 반등에 크게 기대고 있어, 2Q 이후 실제로 실현되는지가 관건이다.",
+   "path": "reports/sysco-1q27-earnings.json"
+  },
+  {
+   "slug": "chefs-warehouse-3q26-earnings",
+   "type": "earnings",
+   "title": "Chefs' Warehouse 3Q26 실적발표 : 연료비 전가 속 이익률 확대, 연간 가이던스 상향",
+   "companies": [
+    {
+     "name": "Chefs' Warehouse",
+     "ticker": "CHEF"
+    }
+   ],
+   "event": "3Q26 실적 발표",
+   "event_date": "2026-10-28",
+   "published_kst": "2026-10-28T21:00:00+09:00",
+   "revised_kst": "2026-11-21T11:18:25+09:00",
+   "revision": 1,
+   "summary": "유기적 매출이 10.3% 늘고 매출총이익률이 84bp 오르면서 조정 EBITDA가 26% 늘었고, 회사는 연간 가이던스를 올렸다. 다만 3월 이후 오른 연료비가 영업비용에 얹히고 그만큼이 판가로 넘어가 매출총이익률에 잡혔다. 그래서 조정 영업비용률은 전년과 거의 같았고, 이익률 개선 가운데 구성·조달 효과의 몫은 아직 갈라 보기 어렵다.",
+   "path": "reports/chefs-warehouse-3q26-earnings.json"
+  }
+ ],
  "calendar": {
-  "updated_kst": "2026-11-21T10:55:17+09:00",
+  "updated_kst": "2026-11-21T11:10:25+09:00",
   "path": "calendar.json"
  }
 }
