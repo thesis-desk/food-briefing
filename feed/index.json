@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_kst": "2026-11-21T12:32:09+09:00",
+ "generated_kst": "2026-11-21T12:46:06+09:00",
  "reports": [
   {
    "slug": "food-outlook-2027-dining-trends-chae-seonae",
@@ -29,40 +29,22 @@
    "path": "reports/food-outlook-2027-dining-trends-chae-seonae.json"
   },
   {
-   "slug": "foodweek-2026",
-   "type": "event",
-   "title": "푸드위크 코리아 2026 : 계약 증가는 신선 과채·전통주가 만들었고, 소스·식자재 수출은 아직 '관심' 단계다",
+   "slug": "elior-fy26-earnings",
+   "type": "earnings",
+   "title": "Elior FY26 실적발표 : 이탈리아 열차 계약 손실, 신규 계약은 내년으로",
    "companies": [
     {
-     "name": "푸드위크 코리아 2026",
-     "ticker": null
+     "name": "Elior",
+     "ticker": "ELIOR.PA"
     }
    ],
-   "event": "푸드위크 코리아 2026",
-   "event_date": "2026-11-04",
-   "published_kst": "2026-11-21T12:11:20+09:00",
-   "revised_kst": "2026-11-21T12:11:20+09:00",
+   "event": "FY2025-26 연간 실적 발표",
+   "event_date": "2026-11-19",
+   "published_kst": "2026-11-19T21:00:00+09:00",
+   "revised_kst": "2026-11-21T12:38:20+09:00",
    "revision": 1,
-   "summary": "현장 계약 18% 증가는 거의 전부 포도·딸기·전통주에서 나왔고, 나머지 품목의 계약은 전년보다 줄었을 가능성이 크다. 정부는 소스·식자재를 해외 급식·외식용 수출 품목으로 내세웠지만 이를 받칠 계약 수치는 아직 없다.",
-   "path": "reports/foodweek-2026.json"
-  },
-  {
-   "slug": "food-outlook-2027",
-   "type": "event",
-   "title": "2027 식품외식산업전망 : 성장 품목 뒤에서 한 끼 자체가 줄고 있다",
-   "companies": [
-    {
-     "name": "2027 식품외식산업전망",
-     "ticker": null
-    }
-   ],
-   "event": "2027 식품외식산업전망",
-   "event_date": "2026-11-04",
-   "published_kst": "2026-11-21T12:06:06+09:00",
-   "revised_kst": "2026-11-21T12:06:06+09:00",
-   "revision": 1,
-   "summary": "이 행사에서 가장 무게 있는 자료는 1인당 끼니와 섭취 건수가 줄었다는 '감식사회' 분석입니다. 단백질 음료·저당 빙과 같은 성장 수치는 줄어드는 총량 안에서 수요가 자리를 옮긴 결과로 읽어야 합니다. 정부의 개최 결과 자료는 같은 분석에서 성장 수치만 골라 전했으므로, 식자재 물량 판단은 감소 데이터에 맞추는 편이 안전합니다.",
-   "path": "reports/food-outlook-2027.json"
+   "summary": "Elior는 FY26에 이탈리아 열차 케이터링 가격 분쟁과 신규 계약 개시 지연이 겹쳐 계약 급식 이익률이 4.0%에서 3.0%로 내려갔다. 유지율 상승과 이미 서명한 대형 계약을 근거로 FY27 유기적 성장 3~5%를 제시했지만, 이익률 가이던스는 약 3.2%로 제자리다. 내년에 성장은 늘어도 이익률 개선은 약속하지 않은 셈이다.",
+   "path": "reports/elior-fy26-earnings.json"
   },
   {
    "slug": "aramark-4q26-earnings",
@@ -263,83 +245,40 @@
    "path": "reports/sodexo-fy26-earnings.json"
   },
   {
-   "slug": "farmdoc-beef-price-outlook",
-   "type": "article",
-   "title": "farmdoc daily : 소 사육두수 부족과 견조한 수요가 미국 소고기 가격을 식품 물가 평균보다 높게 붙잡고 있다",
+   "slug": "compass-investor-day-2026",
+   "type": "investor_day",
+   "title": "Compass Group 투자자의 날 2026 : 데이터센터 숙소까지 열어 둔 성장 경로, 이탈 계약 절대액 관리",
    "companies": [
     {
-     "name": "미국 육우·소고기 산업 (특정 기업 없음)",
-     "ticker": null
+     "name": "Compass Group",
+     "ticker": "CPG.L"
     }
    ],
-   "published_kst": "2026-10-05T21:00:00+09:00",
-   "revised_kst": "2026-11-21T11:55:37+09:00",
+   "event": "2026년 투자자 현장 투어(뉴욕)와 섹터화 심층 설명",
+   "event_date": "2026-09-16",
+   "published_kst": "2026-09-16T21:00:00+09:00",
+   "revised_kst": "2026-11-21T12:45:04+09:00",
    "revision": 1,
-   "summary": "미국 가정 내 식품 물가는 2%대로 안정됐지만 소고기는 전년 대비 5.9% 올랐고, USDA는 2026년 소고기 가격이 9.4% 오른다고 내다봤다. 공급 쪽 원인(번식우 감소, 재건에 2~3년)이 단기에 풀리기 어려운 구조라서, 미국산 소고기를 쓰는 사업자는 원가 부담이 2027년까지 이어질 수 있다고 보고 대비하는 편이 낫다고 본다(수출·수입은 원문이 다루지 않아 한국 도입가로 옮기는 데는 확신이 낮다).",
-   "path": "reports/farmdoc-beef-price-outlook.json"
+   "summary": "새 중기 재무 목표는 나오지 않았다. 대신 데이터센터 관련 수요를 세 갈래로 나눠 자본 투입형 근로자 숙소 사업까지 열어 두었고, 북미 유지율 97% 뒤에 있는 연 10억 달러 이탈과 북미 인건비 150억 달러를 다음 개선 여지로 꼽았다. 성장의 근거는 여전히 첫 아웃소싱, 섹터별 브랜드, 인수다.",
+   "path": "reports/compass-investor-day-2026.json"
   },
   {
-   "slug": "barclays-consumer-2026",
-   "type": "event",
-   "title": "Barclays 소비재 컨퍼런스 2026 : 미국 3대 유통사의 성장은 중소 유통사 몫을 가져오는 데서 나오고, AI 원가 절감은 금액과 연도가 붙은 목표가 됐다",
+   "slug": "bidcorp-fy26-earnings",
+   "type": "earnings",
+   "title": "Bidcorp FY26 실적발표 : 식품 물가 없이 이익률 개선, 유럽·영국 주도에 호주·신흥시장 정체",
    "companies": [
     {
-     "name": "퍼포먼스 푸드 그룹",
-     "ticker": null
-    },
-    {
-     "name": "US 푸즈",
-     "ticker": null
-    },
-    {
-     "name": "시스코",
-     "ticker": null
+     "name": "Bidcorp",
+     "ticker": "BID.JO"
     }
    ],
-   "event": "Barclays Global Consumer Staples Conference 2026",
-   "event_date": "2026-09-09",
-   "published_kst": "2026-09-10T21:00:00+09:00",
-   "revised_kst": "2026-11-21T11:34:56+09:00",
+   "event": "F2026 연간 실적 발표",
+   "event_date": "2026-08-26",
+   "published_kst": "2026-08-26T21:00:00+09:00",
+   "revised_kst": "2026-11-21T12:46:06+09:00",
    "revision": 1,
-   "summary": "외식 수요가 정체한 가운데 미국 3대 식자재 유통사는 성장의 원천을 세 곳으로 옮겼다. 독립 식당 거래처를 중소 유통사에게서 뺏어 오고, 소량·현장 구매 채널로 내려오고, AI로 물류·간접비·재고를 줄이는 쪽이다. 시스코는 AI 효율화로 FY29 5억 달러, PFG는 3개년 50~60bp 마진 개선을 내걸었다. 규모 업체와 중소 업체 사이의 원가 격차가 벌어지는 방향은 분명하지만, 대부분 회사 목표치이고 실현은 확인되지 않았다.",
-   "path": "reports/barclays-consumer-2026.json"
-  },
-  {
-   "slug": "youtube-an-interview-with-sysco-ceo-kevin-hourican",
-   "type": "interview",
-   "title": "Sysco CEO Kevin Hourican 인터뷰 : Restaurant Depot 인수 논리와 독립 식당 경기",
-   "companies": [
-    {
-     "name": "Sysco",
-     "ticker": null
-    },
-    {
-     "name": "Jetro Restaurant Depot",
-     "ticker": null
-    }
-   ],
-   "event": "Restaurant Business 팟캐스트 A Deeper Dive 출연",
-   "published_kst": "2026-08-06T21:00:00+09:00",
-   "revised_kst": "2026-11-21T11:49:10+09:00",
-   "revision": 1,
-   "summary": "Sysco는 290억 달러짜리 Restaurant Depot 인수를 ‘다른 고객, 다른 채널’의 결합으로 설명합니다. 매장 가격 동결 약속, 공급사 조건 재협상, 채널을 잇는 로열티를 함께 내세워 규제 통과와 출점 확대를 노립니다. 같은 자리에서 독립 식당이 전국 체인보다 낫다는 자사 데이터를 사실로 제시했지만, 그 데이터의 범위와 기준은 공개하지 않았습니다.",
-   "path": "reports/youtube-an-interview-with-sysco-ceo-kevin-hourican.json"
-  },
-  {
-   "slug": "avendra-2027-procurement-outlook",
-   "type": "article",
-   "title": "Avendra : 미국 호스피탈리티 식음료 원가는 2027년까지 현재 대비 3~4.5% 더 오르고, 소고기와 수입 수산물이 상승을 이끈다",
-   "companies": [
-    {
-     "name": "Avendra International",
-     "ticker": null
-    }
-   ],
-   "published_kst": "2026-07-22T21:00:00+09:00",
-   "revised_kst": "2026-11-21T11:52:59+09:00",
-   "revision": 1,
-   "summary": "미국 호텔·리조트 구매대행사가 2026년 7월에 낸 원가 전망이다. 식음료는 2027년까지 현재 대비 3~4.5% 오르고 압력의 중심은 소고기·수입 수산물이며, 비식품에서는 일회용품과 전기·배관 자재가 가장 많이 오른다고 본다. 공개 페이지에는 결론만 있고 근거·방법론이 없다. 품목별 방향을 점검하는 데는 쓸 만하지만 수치를 예산에 그대로 옮기기는 어렵다고 본다.",
-   "path": "reports/avendra-2027-procurement-outlook.json"
+   "summary": "F2026은 식품 물가의 도움 없이 매입·구성 관리로 매출총이익률을 올려 인건비·연료비 상승을 넘어선 해였다. 이익 증가는 유럽·영국이 이끌었고 호주·뉴질랜드와 신흥시장은 제자리였다. F2027 첫 4개월에는 매출총이익률 개선이 이어지고 호주와 일부 신흥시장도 나아졌지만, 비용 비율 상승 폭이 커졌다. 회사 문장의 매출총이익률 25.8%는 손익표로 계산하면 24.8%여서 개선 폭은 회사 표현보다 작게 읽어야 한다.",
+   "path": "reports/bidcorp-fy26-earnings.json"
   },
   {
    "slug": "compass-3q26-earnings",
@@ -360,22 +299,22 @@
    "path": "reports/compass-3q26-earnings.json"
   },
   {
-   "slug": "sysco-restaurant-depot-2026",
-   "type": "event",
-   "title": "시스코의 Restaurant Depot 인수 발표 : 1위 배송 유통사는 배송값을 깎지 않고 저가 채널을 샀고, 시너지는 공급사 몫에서 나온다",
+   "slug": "sodexo-investor-day-2026",
+   "type": "investor_day",
+   "title": "Sodexo 투자자의 날 2026 : 순신규 3%로 성장 5%+, 2년 재투자 뒤 이익률 5%+",
    "companies": [
     {
-     "name": "시스코",
-     "ticker": null
+     "name": "Sodexo",
+     "ticker": "SW.PA"
     }
    ],
-   "event": "시스코의 Restaurant Depot 인수 발표",
-   "event_date": "2026-03-30",
-   "published_kst": "2026-03-30T21:00:00+09:00",
-   "revised_kst": "2026-11-21T11:43:05+09:00",
+   "event": "Investor Update 2026 (Shift & Grow 2030)",
+   "event_date": "2026-07-16",
+   "published_kst": "2026-07-16T21:00:00+09:00",
+   "revised_kst": "2026-11-21T12:35:21+09:00",
    "revision": 1,
-   "summary": "시스코는 배송 서비스의 값(구매가의 15~20%)을 내지 않으려는 소형 독립 식당을, 배송 가격을 낮추지 않고 창고형 직접 운반 채널을 사들여 따로 잡기로 했다. 합병 효과의 대부분은 두 회사에 함께 납품하는 공급사·물류사와의 단가 협상에서 나오고, 회사가 밝힌 시너지 크기는 준비 발언과 문답에서 표현이 엇갈렸다.",
-   "path": "reports/sysco-restaurant-depot-2026.json"
+   "summary": "Sodexo는 FY2026~27을 이익률을 희생하는 재건기로 정하고, FY2030에 유기적 성장 5% 초과와 underlying 영업이익률 5% 초과를 내걸었다. 성장은 수년간 0 안팎이던 순신규 사업을 3% 초과로 끌어올리는 데 기대고, 이익률은 인력 생산성과 구매 통합에 기댄다. 이익률 개선이 FY2028~30 세 해에 몰려 있어 실행 위험은 후반에 쏠린다.",
+   "path": "reports/sodexo-investor-day-2026.json"
   }
  ],
  "calendar": {
