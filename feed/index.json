@@ -1,7 +1,123 @@
 {
  "schema": 1,
- "generated_kst": "2026-11-21T11:37:15+09:00",
+ "generated_kst": "2026-11-21T12:32:09+09:00",
  "reports": [
+  {
+   "slug": "food-outlook-2027-dining-trends-chae-seonae",
+   "type": "article",
+   "title": "한국농수산식품유통공사 : 소비자는 지갑을 닫은 게 아니라 내 '영점'에 맞는 곳에만 연다",
+   "companies": [
+    {
+     "name": "메가커피",
+     "ticker": null
+    },
+    {
+     "name": "CJ",
+     "ticker": null
+    },
+    {
+     "name": "GS",
+     "ticker": null
+    }
+   ],
+   "event": "2027 식품외식산업 전망(외식편) 강연",
+   "event_date": "2026-11-05",
+   "published_kst": "2026-11-21T12:26:39+09:00",
+   "revised_kst": "2026-11-21T12:32:09+09:00",
+   "revision": 2,
+   "summary": "2027 외식 전망의 축은 내 기준에 맞춰 실패 없이 쓰는 '영점 소비'다. 현업에 직접 닿는 대목은 음주 감소와 관계 축소에 따른 외식 객단가 압박, 그리고 대형사가 AI로 줄이고 있는 메뉴 개발 주기다. 다만 근거가 검색 데이터와 사례 위주이고 자막에는 정량 수치가 없어, 방향을 가리키는 가설로 읽어야 한다.",
+   "path": "reports/food-outlook-2027-dining-trends-chae-seonae.json"
+  },
+  {
+   "slug": "foodweek-2026",
+   "type": "event",
+   "title": "푸드위크 코리아 2026 : 계약 증가는 신선 과채·전통주가 만들었고, 소스·식자재 수출은 아직 '관심' 단계다",
+   "companies": [
+    {
+     "name": "푸드위크 코리아 2026",
+     "ticker": null
+    }
+   ],
+   "event": "푸드위크 코리아 2026",
+   "event_date": "2026-11-04",
+   "published_kst": "2026-11-21T12:11:20+09:00",
+   "revised_kst": "2026-11-21T12:11:20+09:00",
+   "revision": 1,
+   "summary": "현장 계약 18% 증가는 거의 전부 포도·딸기·전통주에서 나왔고, 나머지 품목의 계약은 전년보다 줄었을 가능성이 크다. 정부는 소스·식자재를 해외 급식·외식용 수출 품목으로 내세웠지만 이를 받칠 계약 수치는 아직 없다.",
+   "path": "reports/foodweek-2026.json"
+  },
+  {
+   "slug": "food-outlook-2027",
+   "type": "event",
+   "title": "2027 식품외식산업전망 : 성장 품목 뒤에서 한 끼 자체가 줄고 있다",
+   "companies": [
+    {
+     "name": "2027 식품외식산업전망",
+     "ticker": null
+    }
+   ],
+   "event": "2027 식품외식산업전망",
+   "event_date": "2026-11-04",
+   "published_kst": "2026-11-21T12:06:06+09:00",
+   "revised_kst": "2026-11-21T12:06:06+09:00",
+   "revision": 1,
+   "summary": "이 행사에서 가장 무게 있는 자료는 1인당 끼니와 섭취 건수가 줄었다는 '감식사회' 분석입니다. 단백질 음료·저당 빙과 같은 성장 수치는 줄어드는 총량 안에서 수요가 자리를 옮긴 결과로 읽어야 합니다. 정부의 개최 결과 자료는 같은 분석에서 성장 수치만 골라 전했으므로, 식자재 물량 판단은 감소 데이터에 맞추는 편이 안전합니다.",
+   "path": "reports/food-outlook-2027.json"
+  },
+  {
+   "slug": "aramark-4q26-earnings",
+   "type": "earnings",
+   "title": "Aramark 4Q26 실적발표 : 수주·유지율 사상 최고, 데이터센터 현장 Nexus 본격 가세",
+   "companies": [
+    {
+     "name": "Aramark",
+     "ticker": "ARMK"
+    }
+   ],
+   "event": "4Q26 실적 발표",
+   "event_date": "2026-11-16",
+   "published_kst": "2026-11-16T21:00:00+09:00",
+   "revised_kst": "2026-11-21T12:21:44+09:00",
+   "revision": 1,
+   "summary": "FY26은 유지율 약 97%, 순신규 6.8%로 회사의 장기 성장 공식을 크게 넘긴 해였다. 4분기 이익은 성과 보상 비용 약 2,600만 달러에 눌렸다. FY27 가이던스(유기적 9~10%, AOI 15~19%)에는 계약된 데이터센터 현장 사업 Nexus 약 5억 달러가 깔려 있다. 다만 기존 사업의 물량 성장은 둔화되고, Nexus는 고객 한 곳과 현장 확대 속도에 크게 기대고 있다.",
+   "path": "reports/aramark-4q26-earnings.json"
+  },
+  {
+   "slug": "shinsegae-food-3q26-earnings",
+   "type": "earnings",
+   "title": "신세계푸드 3Q26 실적발표 : 매출 성장 가속, 지분법손실로 순손실",
+   "companies": [
+    {
+     "name": "신세계푸드",
+     "ticker": null
+    }
+   ],
+   "event": "3Q26 분기보고서",
+   "event_date": "2026-11-16",
+   "published_kst": "2026-11-16T21:00:00+09:00",
+   "revised_kst": "2026-11-21T12:09:05+09:00",
+   "revision": 1,
+   "summary": "3Q26(3개월) 연결 매출은 3,508.6억원으로 전년보다 9.9% 늘었습니다. 상반기 증가율 4.9%보다 빠릅니다. 영업이익은 34.9억원으로 전년의 두 배가 됐고 영업이익률은 0.53%에서 1.00%로 올랐습니다. 다만 지분법손실 75.2억원 때문에 분기순손실 35.9억원을 냈습니다. 원가·판가·고객 업종을 판단할 공시가 부족해 이익 개선이 이어질지는 확신이 낮습니다.",
+   "path": "reports/shinsegae-food-3q26-earnings.json"
+  },
+  {
+   "slug": "pulmuone-3q26-earnings",
+   "type": "earnings",
+   "title": "풀무원 3Q26 실적발표 : 물류비 24% 급증, 3분기 영업이익 90% 급감",
+   "companies": [
+    {
+     "name": "풀무원",
+     "ticker": "017810.KS"
+    }
+   ],
+   "event": "3Q26 분기보고서",
+   "event_date": "2026-11-13",
+   "published_kst": "2026-11-13T21:00:00+09:00",
+   "revised_kst": "2026-11-21T11:45:07+09:00",
+   "revision": 1,
+   "summary": "3Q26 연결 매출은 3.0% 늘었지만 영업이익이 38,092 → 3,979(백만원)로 줄었다. 물류비 급증과 매출총이익률 하락이 겹쳐 상반기 이익 개선분이 사라졌고, 9M 누계로도 순손실로 돌아섰다. 분기보고서는 원인을 설명하지 않고, 3개월 부문 값도 없어 어느 사업에서 깎였는지는 아직 가릴 수 없다.",
+   "path": "reports/pulmuone-3q26-earnings.json"
+  },
   {
    "slug": "cj-freshway-3q26-earnings",
    "type": "earnings",
@@ -19,6 +135,42 @@
    "revision": 1,
    "summary": "매출은 식자재유통과 단체급식이 끌어 전년 동기보다 6.7% 늘었지만 영업이익은 29.2% 줄었다. 매출이익률이 18.7%에서 17.5%로 내려간 것이 원인이고, 이익 감소는 식자재유통에 몰렸다. 플랫폼 성장 투자와 폭염에 따른 원가 부담이 겹친 분기로 보이며, 이익률이 언제 회복되는지는 자료에서 답해지지 않았다.",
    "path": "reports/cj-freshway-3q26-earnings.json"
+  },
+  {
+   "slug": "us-foods-3q26-earnings",
+   "type": "earnings",
+   "title": "US Foods 3Q26 실적발표 : 물량은 기대 밑, 케이스당 이익은 확대 — 영업사원 증원 목표 하향",
+   "companies": [
+    {
+     "name": "US Foods",
+     "ticker": "USFD"
+    }
+   ],
+   "event": "3Q26 실적 발표",
+   "event_date": "2026-11-05",
+   "published_kst": "2026-11-05T21:00:00+09:00",
+   "revised_kst": "2026-11-21T12:02:42+09:00",
+   "revision": 1,
+   "summary": "전체 케이스 물량은 1.3% 증가에 그쳤습니다. 그러나 독립 식당·헬스케어·호스피탈리티 성장, 연료 할증 회수, 공급사 관리 효과로 케이스당 조정 EBITDA가 8.6% 늘어 이익률을 넓힌 분기입니다. 4분기에는 판매 비용과 연료 부담이 이익 성장을 낮춥니다. AI 영업 도구를 근거로 영업 인력 증원 속도를 낮춘 방향 전환이 이번 분기의 새 신호입니다.",
+   "path": "reports/us-foods-3q26-earnings.json"
+  },
+  {
+   "slug": "pfg-1q27-earnings",
+   "type": "earnings",
+   "title": "Performance Food Group 1Q27 실적발표 : 조달 절감이 이익률을 끌고, 외식 인플레이션은 0.5%로 꺼졌다",
+   "companies": [
+    {
+     "name": "Performance Food Group",
+     "ticker": "PFGC"
+    }
+   ],
+   "event": "1Q27 실적 발표",
+   "event_date": "2026-11-04",
+   "published_kst": "2026-11-04T21:00:00+09:00",
+   "revised_kst": "2026-11-21T11:53:41+09:00",
+   "revision": 1,
+   "summary": "PFG 1Q27은 외식(Foodservice) 인플레이션이 0.5%로 꺼지고 디젤 순부담이 약 $16M 생긴 분기였다. 그런데도 조달 절감·자체 브랜드·독립 식당 구성으로 매출총이익을 매출보다 빠르게 늘렸다. 연료·재고 기저·체인 약세 같은 상반기 부담은 2Q까지 이어지고, 회사는 연간 가이던스 달성을 하반기 가속에 걸었다.",
+   "path": "reports/pfg-1q27-earnings.json"
   },
   {
    "slug": "hyundai-greenfood-3q26-earnings",
@@ -91,10 +243,143 @@
    "revision": 1,
    "summary": "3Q26 식음 부문은 매출 9,340억원(전년 동기 +7.9%), 영업이익률 6.7%로, 이번 리포트에서 볼 수 있는 5개 분기 가운데 가장 높다. 회사는 전년 동기 대비 실적 증가의 동인으로 식수 증가와 식단가 개선을 함께 들었다. 다만 1~3분기 누계 이익률은 4.7%로 전년 누계(4.8%)와 거의 같다. 1분기가 이례적으로 약했던 것으로 계산되는데 원인이 설명되지 않아, 3분기 반등이 추세인지는 아직 판단하기 이르다.",
    "path": "reports/samsung-welstory-3q26-earnings.json"
+  },
+  {
+   "slug": "sodexo-fy26-earnings",
+   "type": "earnings",
+   "title": "Sodexo FY26 실적발표 : 이익률 3.4%로 리셋, 유지율은 구조적 과제로",
+   "companies": [
+    {
+     "name": "Sodexo",
+     "ticker": "SW.PA"
+    }
+   ],
+   "event": "FY26 연간 실적 발표",
+   "event_date": "2026-10-23",
+   "published_kst": "2026-10-23T21:00:00+09:00",
+   "revised_kst": "2026-11-21T12:26:35+09:00",
+   "revision": 1,
+   "summary": "FY26에는 계약·자산 점검 충당금, 역량 투자, 운영 부진이 겹쳐 기초 영업이익률이 4.7%에서 3.4%로 내려앉았고, FY27 가이던스도 같은 수준에 묶였다. 4분기 2.6% 성장과 신규 수주 7.7%는 회복 신호다. 다만 고객 유지율 94.4%는 경영진이 직접 경쟁사보다 크게 낮은 구조적 과제라고 인정한 만큼, 회복은 FY28 이후에나 숫자로 확인될 것으로 본다.",
+   "path": "reports/sodexo-fy26-earnings.json"
+  },
+  {
+   "slug": "farmdoc-beef-price-outlook",
+   "type": "article",
+   "title": "farmdoc daily : 소 사육두수 부족과 견조한 수요가 미국 소고기 가격을 식품 물가 평균보다 높게 붙잡고 있다",
+   "companies": [
+    {
+     "name": "미국 육우·소고기 산업 (특정 기업 없음)",
+     "ticker": null
+    }
+   ],
+   "published_kst": "2026-10-05T21:00:00+09:00",
+   "revised_kst": "2026-11-21T11:55:37+09:00",
+   "revision": 1,
+   "summary": "미국 가정 내 식품 물가는 2%대로 안정됐지만 소고기는 전년 대비 5.9% 올랐고, USDA는 2026년 소고기 가격이 9.4% 오른다고 내다봤다. 공급 쪽 원인(번식우 감소, 재건에 2~3년)이 단기에 풀리기 어려운 구조라서, 미국산 소고기를 쓰는 사업자는 원가 부담이 2027년까지 이어질 수 있다고 보고 대비하는 편이 낫다고 본다(수출·수입은 원문이 다루지 않아 한국 도입가로 옮기는 데는 확신이 낮다).",
+   "path": "reports/farmdoc-beef-price-outlook.json"
+  },
+  {
+   "slug": "barclays-consumer-2026",
+   "type": "event",
+   "title": "Barclays 소비재 컨퍼런스 2026 : 미국 3대 유통사의 성장은 중소 유통사 몫을 가져오는 데서 나오고, AI 원가 절감은 금액과 연도가 붙은 목표가 됐다",
+   "companies": [
+    {
+     "name": "퍼포먼스 푸드 그룹",
+     "ticker": null
+    },
+    {
+     "name": "US 푸즈",
+     "ticker": null
+    },
+    {
+     "name": "시스코",
+     "ticker": null
+    }
+   ],
+   "event": "Barclays Global Consumer Staples Conference 2026",
+   "event_date": "2026-09-09",
+   "published_kst": "2026-09-10T21:00:00+09:00",
+   "revised_kst": "2026-11-21T11:34:56+09:00",
+   "revision": 1,
+   "summary": "외식 수요가 정체한 가운데 미국 3대 식자재 유통사는 성장의 원천을 세 곳으로 옮겼다. 독립 식당 거래처를 중소 유통사에게서 뺏어 오고, 소량·현장 구매 채널로 내려오고, AI로 물류·간접비·재고를 줄이는 쪽이다. 시스코는 AI 효율화로 FY29 5억 달러, PFG는 3개년 50~60bp 마진 개선을 내걸었다. 규모 업체와 중소 업체 사이의 원가 격차가 벌어지는 방향은 분명하지만, 대부분 회사 목표치이고 실현은 확인되지 않았다.",
+   "path": "reports/barclays-consumer-2026.json"
+  },
+  {
+   "slug": "youtube-an-interview-with-sysco-ceo-kevin-hourican",
+   "type": "interview",
+   "title": "Sysco CEO Kevin Hourican 인터뷰 : Restaurant Depot 인수 논리와 독립 식당 경기",
+   "companies": [
+    {
+     "name": "Sysco",
+     "ticker": null
+    },
+    {
+     "name": "Jetro Restaurant Depot",
+     "ticker": null
+    }
+   ],
+   "event": "Restaurant Business 팟캐스트 A Deeper Dive 출연",
+   "published_kst": "2026-08-06T21:00:00+09:00",
+   "revised_kst": "2026-11-21T11:49:10+09:00",
+   "revision": 1,
+   "summary": "Sysco는 290억 달러짜리 Restaurant Depot 인수를 ‘다른 고객, 다른 채널’의 결합으로 설명합니다. 매장 가격 동결 약속, 공급사 조건 재협상, 채널을 잇는 로열티를 함께 내세워 규제 통과와 출점 확대를 노립니다. 같은 자리에서 독립 식당이 전국 체인보다 낫다는 자사 데이터를 사실로 제시했지만, 그 데이터의 범위와 기준은 공개하지 않았습니다.",
+   "path": "reports/youtube-an-interview-with-sysco-ceo-kevin-hourican.json"
+  },
+  {
+   "slug": "avendra-2027-procurement-outlook",
+   "type": "article",
+   "title": "Avendra : 미국 호스피탈리티 식음료 원가는 2027년까지 현재 대비 3~4.5% 더 오르고, 소고기와 수입 수산물이 상승을 이끈다",
+   "companies": [
+    {
+     "name": "Avendra International",
+     "ticker": null
+    }
+   ],
+   "published_kst": "2026-07-22T21:00:00+09:00",
+   "revised_kst": "2026-11-21T11:52:59+09:00",
+   "revision": 1,
+   "summary": "미국 호텔·리조트 구매대행사가 2026년 7월에 낸 원가 전망이다. 식음료는 2027년까지 현재 대비 3~4.5% 오르고 압력의 중심은 소고기·수입 수산물이며, 비식품에서는 일회용품과 전기·배관 자재가 가장 많이 오른다고 본다. 공개 페이지에는 결론만 있고 근거·방법론이 없다. 품목별 방향을 점검하는 데는 쓸 만하지만 수치를 예산에 그대로 옮기기는 어렵다고 본다.",
+   "path": "reports/avendra-2027-procurement-outlook.json"
+  },
+  {
+   "slug": "compass-3q26-earnings",
+   "type": "earnings",
+   "title": "Compass Group 3Q26 실적발표 : 순신규 목표 범위 복귀, 해외는 판가 둔화",
+   "companies": [
+    {
+     "name": "Compass Group",
+     "ticker": "CPG.L"
+    }
+   ],
+   "event": "FY26 3분기 트레이딩 업데이트",
+   "event_date": "2026-07-21",
+   "published_kst": "2026-07-21T21:00:00+09:00",
+   "revised_kst": "2026-11-21T12:17:27+09:00",
+   "revision": 1,
+   "summary": "Compass는 3분기(4~6월) 유기적 매출 성장 7.1%로 속도를 지켰고, 순신규도 목표 범위로 다시 가속했다고 밝혔다. 해외에서는 식품 인플레이션 둔화가 판가 둔화로 이어져 성장이 6.4%로 내려왔다. 원가를 마진 없이 전가하는 계약 구조라 이익은 지킨다는 설명이지만, 이익 수치가 없는 매출 발표라서 확인은 11월 연간 실적에서야 가능하다.",
+   "path": "reports/compass-3q26-earnings.json"
+  },
+  {
+   "slug": "sysco-restaurant-depot-2026",
+   "type": "event",
+   "title": "시스코의 Restaurant Depot 인수 발표 : 1위 배송 유통사는 배송값을 깎지 않고 저가 채널을 샀고, 시너지는 공급사 몫에서 나온다",
+   "companies": [
+    {
+     "name": "시스코",
+     "ticker": null
+    }
+   ],
+   "event": "시스코의 Restaurant Depot 인수 발표",
+   "event_date": "2026-03-30",
+   "published_kst": "2026-03-30T21:00:00+09:00",
+   "revised_kst": "2026-11-21T11:43:05+09:00",
+   "revision": 1,
+   "summary": "시스코는 배송 서비스의 값(구매가의 15~20%)을 내지 않으려는 소형 독립 식당을, 배송 가격을 낮추지 않고 창고형 직접 운반 채널을 사들여 따로 잡기로 했다. 합병 효과의 대부분은 두 회사에 함께 납품하는 공급사·물류사와의 단가 협상에서 나오고, 회사가 밝힌 시너지 크기는 준비 발언과 문답에서 표현이 엇갈렸다.",
+   "path": "reports/sysco-restaurant-depot-2026.json"
   }
  ],
  "calendar": {
-  "updated_kst": "2026-11-21T11:10:25+09:00",
+  "updated_kst": "2026-11-21T12:19:58+09:00",
   "path": "calendar.json"
  }
 }

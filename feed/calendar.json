@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated_kst": "2026-11-21T11:10:25+09:00",
+ "updated_kst": "2026-11-21T12:19:58+09:00",
  "events": [
   {
    "company": "Chefs' Warehouse",
@@ -40,8 +40,8 @@
    "official": false,
    "source_url": "https://stockanalysis.com/stocks/pfgc/transcripts/731408-q1-2027/",
    "consensus_snapshot": false,
-   "report_slug": null,
-   "status": "queued",
+   "report_slug": "pfg-1q27-earnings",
+   "status": "published",
    "note": "원문이 올라온 것을 보고 넣은 일정"
   },
   {
@@ -54,8 +54,8 @@
    "official": false,
    "source_url": "https://stockanalysis.com/stocks/usfd/transcripts/726421-q3-2026/",
    "consensus_snapshot": false,
-   "report_slug": null,
-   "status": "queued",
+   "report_slug": "us-foods-3q26-earnings",
+   "status": "published",
    "note": "원문이 올라온 것을 보고 넣은 일정"
   },
   {
@@ -68,22 +68,23 @@
    "official": false,
    "source_url": "https://stockanalysis.com/stocks/armk/transcripts/707344-q4-2026/",
    "consensus_snapshot": false,
-   "report_slug": null,
-   "status": "queued",
+   "report_slug": "aramark-4q26-earnings",
+   "status": "published",
    "note": "원문이 올라온 것을 보고 넣은 일정"
   },
   {
    "company": "Compass Group",
    "ticker": "CPG.L",
    "type": "earnings",
-   "period": null,
-   "date": "2026-11-25",
+   "period": "FY26",
+   "date": "2026-11-24",
    "confirmed": true,
-   "official": false,
-   "source_url": "https://finance.yahoo.com/quote/CPG.L/",
-   "consensus_snapshot": false,
+   "official": true,
+   "source_url": "https://www.compass-group.com/en/investors/results-and-presentations.html",
+   "consensus_snapshot": true,
    "report_slug": null,
-   "status": "scheduled"
+   "status": "scheduled",
+   "note": "회사 실적 자료 목록의 'Full Year Results 2026' 표기"
   },
   {
    "company": "Samsung Welstory",
