@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "updated_kst": "2026-11-21T10:55:17+09:00",
+ "events": [
+  {
+   "company": "Compass Group",
+   "ticker": "CPG.L",
+   "type": "earnings",
+   "period": null,
+   "date": "2026-11-25",
+   "confirmed": true,
+   "official": false,
+   "source_url": "https://finance.yahoo.com/quote/CPG.L/",
+   "consensus_snapshot": false,
+   "report_slug": null,
+   "status": "scheduled"
+  },
+  {
+   "company": "Samsung Welstory",
+   "ticker": null,
+   "type": "earnings",
+   "period": null,
+   "date": "2027-01-27",
+   "confirmed": false,
+   "official": false,
+   "source_url": "https://finance.yahoo.com/quote/028260.KS/",
+   "consensus_snapshot": false,
+   "report_slug": null,
+   "status": "scheduled",
+   "note": "모회사(028260.KS) 결산일 기준"
+  },
+  {
+   "company": "Sysco",
+   "ticker": "SYY",
+   "type": "earnings",
+   "period": null,
+   "date": "2027-02-02",
+   "confirmed": false,
+   "official": false,
+   "source_url": "https://finance.yahoo.com/quote/SYY/",
+   "consensus_snapshot": false,
+   "report_slug": null,
+   "status": "scheduled"
+  },
+  {
+   "company": "Performance Food Group",
+   "ticker": "PFGC",
+   "type": "earnings",
+   "period": null,
+   "date": "2027-02-03",
+   "confirmed": false,
+   "official": false,
+   "source_url": "https://finance.yahoo.com/quote/PFGC/",
+   "consensus_snapshot": false,
+   "report_slug": null,
+   "status": "scheduled"
+  },
+  {
+   "company": "Aramark",
+   "ticker": "ARMK",
+   "type": "earnings",
+   "period": null,
+   "date": "2027-02-10",
+   "confirmed": false,
+   "official": false,
+   "source_url": "https://finance.yahoo.com/quote/ARMK/",
+   "consensus_snapshot": false,
+   "report_slug": null,
+   "status": "scheduled"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "updated_kst": "2026-11-21T10:55:17+09:00",
+ "collectors": [
+  {
+   "name": "reports",
+   "items": 0,
+   "last_kst": null
+  },
+  {
+   "name": "calendar",
+   "items": 5,
+   "last_kst": "2026-11-21T10:55:17+09:00"
+  }
+ ],
+ "missed": []
+}
