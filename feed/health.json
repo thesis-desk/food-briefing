@@ -1,11 +1,11 @@
 {
  "schema": 1,
- "updated_kst": "2026-11-21T11:27:15+09:00",
+ "updated_kst": "2026-11-21T11:37:15+09:00",
  "collectors": [
   {
    "name": "reports",
-   "items": 3,
-   "last_kst": "2026-11-21T11:27:15+09:00"
+   "items": 5,
+   "last_kst": "2026-11-21T11:37:15+09:00"
   },
   {
    "name": "calendar",
