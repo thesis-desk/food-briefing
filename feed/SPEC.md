@@ -137,7 +137,7 @@
 ### 그 밖의 필드
 
 - `sources[].access`: `public` | `paid` | `private`(공개 링크가 없는 출처. `url` 이 없다).
-- `sources[].kind`: `press_release` | `transcript_official` | `transcript_third_party` | `presentation` | `market_data` | `prior_report` | `article` | `video` | `news`(언론 보도) | `dataset`(데스크가 모아 둔 자료 표). 인터뷰·글 분석은 `video` 또는 `article` 이다.
+- `sources[].kind`: `press_release` | `transcript_official` | `transcript_third_party` | `presentation` | `market_data` | `prior_report` | `article` | `video` | `news`(언론 보도) | `dataset`(데스크가 모아 둔 자료 표) | `filing`(규제 공시·정기보고서). 인터뷰·글 분석은 `video` 또는 `article` 이다.
 - `sources[].read`: 실제로 읽은 범위. `전문` | `일부` | `요약만`.
 - `period` 는 회사가 쓰는 분기 이름이다(회계연도가 달력과 다른 회사 포함). `period_end` 는 그 분기의 말일이라 회사끼리 견줄 때 쓴다. 둘 다 있을 때만 들어간다.
 - `prev_slug`: 이 사이트에 직전 분기 리포트가 있으면 그 슬러그, 없으면 `null`.
