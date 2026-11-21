@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_kst": "2026-11-21T15:21:49+09:00",
+ "generated_kst": "2026-11-22T00:12:46+09:00",
  "reports": [
   {
    "slug": "food-outlook-2027-dining-trends-chae-seonae",
@@ -451,7 +451,7 @@
   }
  ],
  "calendar": {
-  "updated_kst": "2026-11-21T12:19:58+09:00",
+  "updated_kst": "2026-11-22T00:12:46+09:00",
   "path": "calendar.json"
  }
 }
