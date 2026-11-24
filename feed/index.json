@@ -1,7 +1,23 @@
 {
  "schema": 1,
- "generated_kst": "2026-11-24T00:12:46+09:00",
+ "generated_kst": "2026-11-24T21:33:10+09:00",
  "reports": [
+  {
+   "slug": "korean-foodservice-going-global",
+   "type": "synthesis",
+   "title": "한국 식자재 유통·급식의 해외 진출 : 급식은 나갔고, 유통이 따라갈 수요는 숫자로 잡히지 않는다",
+   "companies": [
+    {
+     "name": "한국 식자재 유통·급식 업계",
+     "ticker": null
+    }
+   ],
+   "published_kst": "2026-11-24T21:33:10+09:00",
+   "revised_kst": "2026-11-24T21:33:10+09:00",
+   "revision": 1,
+   "summary": "급식 3사의 해외 매출은 7,000억원대로 컸지만, 공시로 확인한 식자재 유통사 한 곳(CJ프레시웨이)의 수출 비중은 0.1%다. 일본 선례의 도매 이익률은 0.2~7.1%로 갈렸고 7%대는 1969년에 시작한 Kikkoman 한 곳뿐이며, 한식 식자재의 외식·급식용 해외 수요는 모은 공개 자료로는 잴 수 없다.",
+   "path": "reports/korean-foodservice-going-global.json"
+  },
   {
    "slug": "food-outlook-2027-dining-trends-chae-seonae",
    "type": "article",

@@ -11,7 +11,7 @@
 | 경로 | 내용 |
 | --- | --- |
 | `index.json` | 목록. 가장 먼저 읽는 파일 |
-| `reports/<슬러그>.json` | 리포트 1건(실적 발표·투자자의 날·인터뷰·글 분석·행사 정리). 비밀번호로 잠근 유형(종합·조사 리포트, `config/site.toml`의 `[sealed]`)은 싣지 않는다 |
+| `reports/<슬러그>.json` | 리포트 1건(실적 발표·투자자의 날·인터뷰·글 분석·행사 정리·종합·조사 리포트). `config/site.toml`의 `[sealed]`에 적은 유형은 싣지 않는다(지금은 없음) |
 | `calendar.json` | 실적·투자자의 날 일정과 대기 목록 |
 | `health.json` | 수집 상태와 놓친 것(`missed`) |
 | `SPEC.md` | 이 문서 |
@@ -48,7 +48,7 @@
 ```
 
 - `generated_kst` 는 빌드 시각이 아니라 **가장 최근에 바뀐 기록의 시각**이다. 내용이 그대로면 이 값도 그대로다.
-- `type`: `earnings` | `investor_day` | `interview` | `article` | `event`(행사 정리). 종합(`synthesis`)·조사 리포트(`research`)는 잠가 싣지 않는다.
+- `type`: `earnings` | `investor_day` | `interview` | `article` | `event`(행사 정리) | `synthesis`(종합) | `research`(조사 리포트).
 - `companies[].ticker` 는 없으면 `null`. `event`·`event_date` 는 있을 때만.
 - `revision` 은 처음 게시할 때 1이다. `revised_kst` 는 고친 적이 없으면 `published_kst` 와 같다.
 - `path` 는 `feed/` 기준 상대 경로다.
@@ -111,7 +111,7 @@
 
 - 전사본이 없어 콜 정리를 싣지 못한 리포트도 `prepared`·`qa` 절은 있다. 그 사실을 `view` 블록 하나로 적는다.
 - 인터뷰·글 분석·행사 정리는 화면의 절을 그대로 내보낸다. `id` 는 순번(`s1`, `s2` …)이고 `layer` 는 모두 `common` 이다.
-- 종합·조사 리포트(`synthesis`·`research`)는 비밀번호로 잠가 `feed/` 에 싣지 않는다(`config/site.toml` 의 `[sealed]`).
+- 종합·조사 리포트(`synthesis`·`research`)도 화면의 절을 그대로 내보낸다. `config/site.toml` 의 `[sealed]` 에 적은 유형만 `feed/` 에 싣지 않는다(지금은 없음).
 - 출처 목록(`sources`)과 작성·검토 기록(`review`)은 절이 아니라 최상위 필드다.
 
 ### 블록 `kind`
