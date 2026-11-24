@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated_kst": "2026-11-24T00:12:46+09:00",
+ "updated_kst": "2026-11-25T00:12:45+09:00",
  "events": [
   {
    "company": "Chefs' Warehouse",
@@ -83,8 +83,21 @@
    "source_url": "https://www.compass-group.com/en/investors/results-and-presentations.html",
    "consensus_snapshot": true,
    "report_slug": null,
-   "status": "scheduled",
+   "status": "queued",
    "note": "회사 실적 자료 목록의 'Full Year Results 2026' 표기"
+  },
+  {
+   "company": "Compass Group",
+   "ticker": "CPG.L",
+   "type": "earnings",
+   "period": null,
+   "date": "2026-11-25",
+   "confirmed": true,
+   "official": false,
+   "source_url": "https://finance.yahoo.com/quote/CPG.L/",
+   "consensus_snapshot": true,
+   "report_slug": null,
+   "status": "scheduled"
   },
   {
    "company": "Samsung Welstory",
@@ -92,7 +105,7 @@
    "type": "earnings",
    "period": null,
    "date": "2027-01-27",
-   "confirmed": false,
+   "confirmed": true,
    "official": false,
    "source_url": "https://finance.yahoo.com/quote/028260.KS/",
    "consensus_snapshot": false,
@@ -135,6 +148,32 @@
    "confirmed": false,
    "official": false,
    "source_url": "https://finance.yahoo.com/quote/ARMK/",
+   "consensus_snapshot": false,
+   "report_slug": null,
+   "status": "scheduled"
+  },
+  {
+   "company": "Chefs' Warehouse",
+   "ticker": "CHEF",
+   "type": "earnings",
+   "period": null,
+   "date": "2027-02-10",
+   "confirmed": false,
+   "official": false,
+   "source_url": "https://finance.yahoo.com/quote/CHEF/",
+   "consensus_snapshot": false,
+   "report_slug": null,
+   "status": "scheduled"
+  },
+  {
+   "company": "US Foods",
+   "ticker": "USFD",
+   "type": "earnings",
+   "period": null,
+   "date": "2027-02-11",
+   "confirmed": false,
+   "official": false,
+   "source_url": "https://finance.yahoo.com/quote/USFD/",
    "consensus_snapshot": false,
    "report_slug": null,
    "status": "scheduled"
