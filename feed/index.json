@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_kst": "2026-11-25T00:12:45+09:00",
+ "generated_kst": "2026-11-26T00:13:02+09:00",
  "reports": [
   {
    "slug": "korean-foodservice-going-global",
@@ -467,7 +467,7 @@
   }
  ],
  "calendar": {
-  "updated_kst": "2026-11-25T00:12:45+09:00",
+  "updated_kst": "2026-11-26T00:13:02+09:00",
   "path": "calendar.json"
  }
 }
