@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated_kst": "2026-11-26T00:13:02+09:00",
+ "updated_kst": "2026-11-27T00:13:00+09:00",
  "events": [
   {
    "company": "Chefs' Warehouse",
@@ -184,7 +184,7 @@
    "type": "earnings",
    "period": null,
    "date": "2027-05-13",
-   "confirmed": false,
+   "confirmed": true,
    "official": false,
    "source_url": "https://finance.yahoo.com/quote/CPG.L/",
    "consensus_snapshot": false,
